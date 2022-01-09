@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxViewer", "TaxViewer\TaxViewer.csproj", "{22653451-D44B-4C08-9D4A-D43F85B98DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22653451-D44B-4C08-9D4A-D43F85B98DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22653451-D44B-4C08-9D4A-D43F85B98DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22653451-D44B-4C08-9D4A-D43F85B98DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22653451-D44B-4C08-9D4A-D43F85B98DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D76EC8-E0CC-4948-91F2-55CC2C90E12F}
+	EndGlobalSection
+EndGlobal
